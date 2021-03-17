@@ -2,6 +2,8 @@
 
 You will be creating an API to manage employee data at Dunder Mifflin. 
 
+![gif](https://media.giphy.com/media/vzoYZ7Ef9clbO/giphy.gif)
+
 ## Requirements
 * The user can CRUD employee data
 
