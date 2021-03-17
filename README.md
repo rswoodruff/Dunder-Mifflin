@@ -1,1 +1,27 @@
-# Dunder-Mifflin
+# Dunder Mifflin
+
+You will be creating an API to manage employee data at Dunder Mifflin. 
+
+## Requirements
+* The user can CRUD employee data
+
+## Services
+|Employee|
+| - |
+| id: number |
+| name: string |
+| title: string |
+| department: Department  |
+| salary: number |
+| manager: string |
+
+|Department|
+| - |
+| SALES |
+| CORPORATE |
+| ACCOUNTING  |
+| RECEPTION |
+| HUMAN RECOURCES | 
+
+## Sumission
+Create a pull request with your solution
