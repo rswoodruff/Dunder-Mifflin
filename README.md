@@ -7,7 +7,7 @@ You will be creating an API to manage employee data at Dunder Mifflin.
 ## Requirements
 * The user can CRUD employee data
 
-## Services
+## Model
 |Employee|
 | - |
 | id: number |
