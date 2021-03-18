@@ -1,0 +1,19 @@
+{
+  "name": "dunder-mifflin",
+  "version": "1.0.0",
+  "description": "\"You will be creating an employee database\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rswoodruff/Dunder-Mifflin.git"
+  },
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rswoodruff/Dunder-Mifflin/issues"
+  },
+  "homepage": "https://github.com/rswoodruff/Dunder-Mifflin#readme"
+}
